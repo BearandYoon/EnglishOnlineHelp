@@ -1,0 +1,12 @@
+Cufon.replace('nav ul li a.style1', { fontFamily: 'Myriad Web Pro', hover:true });
+Cufon.replace('nav ul li .inner1 li a', { fontFamily: 'Myriad Web Pro', hover:true, hover:{textShadow:'none'} });
+Cufon.replace('nav ul li a', { fontFamily: 'Myriad Web Pro', hover:true, hover:{textShadow:'1px 1px #0d7493'} });
+Cufon.replace('.box p', { fontFamily: 'Myriad Pro Bold', hover:false });
+Cufon.replace('.box p span', { fontFamily: 'Myriad Web Pro', hover:false });
+Cufon.replace('.link1', { fontFamily: 'Myriad Pro Bold', hover:true, textShadow:'1px 1px #cd6d0f', hover:{textShadow:'none'} });
+Cufon.replace('h2', { fontFamily: 'Myriad Pro Bold', hover:false });
+Cufon.replace('h2.style1', { fontFamily: 'Myriad Pro Semibold', hover:false });
+Cufon.replace('h2.style1 em', { fontFamily: 'Myriad Pro Bold', hover:false });
+Cufon.replace('h2.style2', { fontFamily: 'Myriad Pro Bold', hover:false });
+Cufon.replace('h2.style1 em strong', { fontFamily: 'Myriad Pro Semibold', hover:false });
+Cufon.replace('h6', { fontFamily: 'Myriad Web Pro', hover:false });
