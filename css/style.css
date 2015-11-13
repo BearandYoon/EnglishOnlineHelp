@@ -671,8 +671,8 @@ blockquote .link2{
 	float:left;
 }
 .head-pic{
-	margin-left:22px;
-	background:#000;
+    margin-left: 2px;
+    background: #000;
 }
 .box p{
 	font-size:35px;
@@ -897,7 +897,8 @@ aside .col {
 	padding-left:0px;
 }
 aside .col.alt{
-	padding:0;
+    padding: 0px;
+    padding-right: 130px;
 }
 
 /*===== footer =====*/
